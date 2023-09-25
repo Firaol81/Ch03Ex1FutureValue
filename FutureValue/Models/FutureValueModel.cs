@@ -1,5 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
+// Author: Firaol Baneta
+// Date: 9 / 24 / 2023
+
+
 namespace FutureValue.Models
 {
     public class FutureValueModel
